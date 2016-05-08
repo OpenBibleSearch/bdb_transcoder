@@ -1,0 +1,835 @@
+[
+  {
+    "ascii_translit" : " ",
+    "bwheb" : " ",
+    "char_type" : "other",
+    "hebrew" : " ",
+    "is_final_form" : false,
+    "occurances" : 33919,
+    "translit" : " "
+  }, {
+    "ascii_translit" : "n",
+    "bwheb" : "!",
+    "char_type" : "cons",
+    "hebrew" : "ן",
+    "is_final_form" : true,
+    "occurances" : 8645,
+    "translit" : "n"
+  }, {
+    "ascii_translit" : "",
+    "bwheb" : "\"",
+    "char_type" : "vow",
+    "hebrew" : "ָ",
+    "is_final_form" : false,
+    "occurances" : 9570,
+    "translit" : ""
+  }, {
+    "ascii_translit" : "c",
+    "bwheb" : "#",
+    "char_type" : "cons",
+    "hebrew" : "ץ",
+    "is_final_form" : true,
+    "occurances" : 1861,
+    "translit" : "ṣ"
+  }, {
+    "ascii_translit" : "k",
+    "bwheb" : "$",
+    "char_type" : "cons",
+    "hebrew" : "ך",
+    "is_final_form" : true,
+    "occurances" : 607,
+    "translit" : "k"
+  }, {
+    "ascii_translit" : "k",
+    "bwheb" : "%",
+    "char_type" : "cons+vow",
+    "hebrew" : "ךְ",
+    "is_final_form" : true,
+    "occurances" : 1384,
+    "translit" : "k"
+  }, {
+    "ascii_translit" : "",
+    "bwheb" : "&",
+    "char_type" : "cons+dag",
+    "hebrew" : "ךּ",
+    "is_final_form" : true,
+    "occurances" : 25,
+    "translit" : ""
+  }, {
+    "ascii_translit" : "",
+    "bwheb" : "'",
+    "char_type" : "vow",
+    "hebrew" : "ָ",
+    "is_final_form" : false,
+    "occurances" : 47109,
+    "translit" : ""
+  }, {
+    "ascii_translit" : "",
+    "bwheb" : "(",
+    "char_type" : "cant",
+    "hebrew" : "ֽ",
+    "is_final_form" : false,
+    "occurances" : 1426,
+    "translit" : ""
+  }, {
+    "ascii_translit" : "",
+    "bwheb" : ")",
+    "char_type" : "cant",
+    "hebrew" : "ֽ",
+    "is_final_form" : false,
+    "occurances" : 936,
+    "translit" : ""
+  }, {
+    "ascii_translit" : "",
+    "bwheb" : "*",
+    "char_type" : "cant",
+    "hebrew" : "ֽ",
+    "is_final_form" : false,
+    "occurances" : 3,
+    "translit" : ""
+  }, {
+    "ascii_translit" : "",
+    "bwheb" : "+",
+    "char_type" : "cant",
+    "hebrew" : "֑",
+    "is_final_form" : false,
+    "occurances" : 470,
+    "translit" : ""
+  }, {
+    "ascii_translit" : "e",
+    "bwheb" : ",",
+    "char_type" : "vow",
+    "hebrew" : "ֶ",
+    "is_final_form" : false,
+    "occurances" : 19236,
+    "translit" : "e"
+  }, {
+    "ascii_translit" : "-",
+    "bwheb" : "-",
+    "char_type" : "other",
+    "hebrew" : "־",
+    "is_final_form" : false,
+    "occurances" : 5766,
+    "translit" : "-"
+  }, {
+    "ascii_translit" : "",
+    "bwheb" : ".",
+    "char_type" : "vow",
+    "hebrew" : "ְ",
+    "is_final_form" : false,
+    "occurances" : 38697,
+    "translit" : ""
+  }, {
+    "ascii_translit" : "e*",
+    "bwheb" : "/",
+    "char_type" : "vow",
+    "hebrew" : "ֱ",
+    "is_final_form" : false,
+    "occurances" : 1180,
+    "translit" : "ĕ"
+  }, {
+    "ascii_translit" : "",
+    "bwheb" : "1",
+    "char_type" : "roman",
+    "hebrew" : "1",
+    "is_final_form" : false,
+    "occurances" : 2,
+    "translit" : ""
+  }, {
+    "ascii_translit" : "",
+    "bwheb" : "9",
+    "char_type" : "roman",
+    "hebrew" : "9",
+    "is_final_form" : false,
+    "occurances" : 1,
+    "translit" : ""
+  }, {
+    "ascii_translit" : "a",
+    "bwheb" : ":",
+    "char_type" : "vow",
+    "hebrew" : "ַ",
+    "is_final_form" : false,
+    "occurances" : 7081,
+    "translit" : "a"
+  }, {
+    "ascii_translit" : "a",
+    "bwheb" : ";",
+    "char_type" : "vow",
+    "hebrew" : "ַ",
+    "is_final_form" : false,
+    "occurances" : 38344,
+    "translit" : "a"
+  }, {
+    "ascii_translit" : "e",
+    "bwheb" : "<",
+    "char_type" : "vow",
+    "hebrew" : "ֶ",
+    "is_final_form" : false,
+    "occurances" : 2780,
+    "translit" : "e"
+  }, {
+    "ascii_translit" : "",
+    "bwheb" : ">",
+    "char_type" : "vow",
+    "hebrew" : "ְ",
+    "is_final_form" : false,
+    "occurances" : 10630,
+    "translit" : ""
+  }, {
+    "ascii_translit" : "e*",
+    "bwheb" : "?",
+    "char_type" : "vow",
+    "hebrew" : "ֱ",
+    "is_final_form" : false,
+    "occurances" : 9,
+    "translit" : "ĕ"
+  }, {
+    "ascii_translit" : "p",
+    "bwheb" : "@",
+    "char_type" : "cons",
+    "hebrew" : "ף",
+    "is_final_form" : true,
+    "occurances" : 1750,
+    "translit" : "p"
+  }, {
+    "ascii_translit" : "",
+    "bwheb" : "A",
+    "char_type" : "cons+vow",
+    "hebrew" : "וֹ",
+    "is_final_form" : false,
+    "occurances" : 15392,
+    "translit" : ""
+  }, {
+    "ascii_translit" : "",
+    "bwheb" : "B",
+    "char_type" : "cons+dag",
+    "hebrew" : "בּ",
+    "is_final_form" : false,
+    "occurances" : 11403,
+    "translit" : ""
+  }, {
+    "ascii_translit" : "cc",
+    "bwheb" : "C",
+    "char_type" : "cons+dag",
+    "hebrew" : "צּ",
+    "is_final_form" : false,
+    "occurances" : 741,
+    "translit" : "ṣṣ"
+  }, {
+    "ascii_translit" : "",
+    "bwheb" : "D",
+    "char_type" : "cons+dag",
+    "hebrew" : "דּ",
+    "is_final_form" : false,
+    "occurances" : 3997,
+    "translit" : ""
+  }, {
+    "ascii_translit" : "e:",
+    "bwheb" : "E",
+    "char_type" : "vow",
+    "hebrew" : "ֵ",
+    "is_final_form" : false,
+    "occurances" : 3244,
+    "translit" : "ē"
+  }, {
+    "ascii_translit" : "&&",
+    "bwheb" : "F",
+    "char_type" : "cons+dag",
+    "hebrew" : "שּׂ",
+    "is_final_form" : false,
+    "occurances" : 323,
+    "translit" : "śś"
+  }, {
+    "ascii_translit" : "",
+    "bwheb" : "G",
+    "char_type" : "cons+dag",
+    "hebrew" : "גּ",
+    "is_final_form" : false,
+    "occurances" : 3548,
+    "translit" : ""
+  }, {
+    "ascii_translit" : "",
+    "bwheb" : "H",
+    "char_type" : "cons+dag",
+    "hebrew" : "הּ",
+    "is_final_form" : false,
+    "occurances" : 893,
+    "translit" : ""
+  }, {
+    "ascii_translit" : "i",
+    "bwheb" : "I",
+    "char_type" : "vow",
+    "hebrew" : "ִ",
+    "is_final_form" : false,
+    "occurances" : 9644,
+    "translit" : "i"
+  }, {
+    "ascii_translit" : "TT",
+    "bwheb" : "J",
+    "char_type" : "cons+dag",
+    "hebrew" : "טּ",
+    "is_final_form" : false,
+    "occurances" : 593,
+    "translit" : "ṭṭ"
+  }, {
+    "ascii_translit" : "",
+    "bwheb" : "K",
+    "char_type" : "cons+dag",
+    "hebrew" : "כּ",
+    "is_final_form" : false,
+    "occurances" : 6382,
+    "translit" : ""
+  }, {
+    "ascii_translit" : "ll",
+    "bwheb" : "L",
+    "char_type" : "cons+dag",
+    "hebrew" : "לּ",
+    "is_final_form" : false,
+    "occurances" : 1957,
+    "translit" : "ll"
+  }, {
+    "ascii_translit" : "mm",
+    "bwheb" : "M",
+    "char_type" : "cons+dag",
+    "hebrew" : "מּ",
+    "is_final_form" : false,
+    "occurances" : 2705,
+    "translit" : "mm"
+  }, {
+    "ascii_translit" : "nn",
+    "bwheb" : "N",
+    "char_type" : "cons+dag",
+    "hebrew" : "נּ",
+    "is_final_form" : false,
+    "occurances" : 1895,
+    "translit" : "nn"
+  }, {
+    "ascii_translit" : "o:",
+    "bwheb" : "O",
+    "char_type" : "vow",
+    "hebrew" : "ֹ",
+    "is_final_form" : false,
+    "occurances" : 2287,
+    "translit" : "ō"
+  }, {
+    "ascii_translit" : "",
+    "bwheb" : "P",
+    "char_type" : "cons+dag",
+    "hebrew" : "פּ",
+    "is_final_form" : false,
+    "occurances" : 4117,
+    "translit" : ""
+  }, {
+    "ascii_translit" : "qq",
+    "bwheb" : "Q",
+    "char_type" : "cons+dag",
+    "hebrew" : "קּ",
+    "is_final_form" : false,
+    "occurances" : 1028,
+    "translit" : "qq"
+  }, {
+    "ascii_translit" : "rr",
+    "bwheb" : "R",
+    "char_type" : "cons+dag",
+    "hebrew" : "רּ",
+    "is_final_form" : false,
+    "occurances" : 34,
+    "translit" : "rr"
+  }, {
+    "ascii_translit" : "ss",
+    "bwheb" : "S",
+    "char_type" : "cons+dag",
+    "hebrew" : "סּ",
+    "is_final_form" : false,
+    "occurances" : 651,
+    "translit" : "ss"
+  }, {
+    "ascii_translit" : "",
+    "bwheb" : "T",
+    "char_type" : "cons+dag",
+    "hebrew" : "תּ",
+    "is_final_form" : false,
+    "occurances" : 7591,
+    "translit" : ""
+  }, {
+    "ascii_translit" : "u",
+    "bwheb" : "U",
+    "char_type" : "vow",
+    "hebrew" : "ֻ",
+    "is_final_form" : false,
+    "occurances" : 263,
+    "translit" : "u"
+  }, {
+    "ascii_translit" : "$$",
+    "bwheb" : "V",
+    "char_type" : "cons+dag",
+    "hebrew" : "שּׁ",
+    "is_final_form" : false,
+    "occurances" : 1318,
+    "translit" : "šš"
+  }, {
+    "ascii_translit" : "",
+    "bwheb" : "W",
+    "char_type" : "cons+dag",
+    "hebrew" : "וּ",
+    "is_final_form" : false,
+    "occurances" : 12530,
+    "translit" : ""
+  }, {
+    "ascii_translit" : "$",
+    "bwheb" : "X",
+    "char_type" : "cons",
+    "hebrew" : "ש",
+    "is_final_form" : false,
+    "occurances" : 454,
+    "translit" : "š"
+  }, {
+    "ascii_translit" : "yy",
+    "bwheb" : "Y",
+    "char_type" : "cons+dag",
+    "hebrew" : "יּ",
+    "is_final_form" : false,
+    "occurances" : 2985,
+    "translit" : "yy"
+  }, {
+    "ascii_translit" : "zz",
+    "bwheb" : "Z",
+    "char_type" : "cons+dag",
+    "hebrew" : "זּ",
+    "is_final_form" : false,
+    "occurances" : 610,
+    "translit" : "zz"
+  }, {
+    "ascii_translit" : "(",
+    "bwheb" : "[",
+    "char_type" : "cons",
+    "hebrew" : "ע",
+    "is_final_form" : false,
+    "occurances" : 23647,
+    "translit" : "ʿ"
+  }, {
+    "ascii_translit" : "o*",
+    "bwheb" : "\\",
+    "char_type" : "vow",
+    "hebrew" : "ֳ",
+    "is_final_form" : false,
+    "occurances" : 356,
+    "translit" : "ŏ"
+  }, {
+    "ascii_translit" : "a*",
+    "bwheb" : "]",
+    "char_type" : "vow",
+    "hebrew" : "ֲ",
+    "is_final_form" : false,
+    "occurances" : 3,
+    "translit" : "ă"
+  }, {
+    "ascii_translit" : "ka:",
+    "bwheb" : "^",
+    "char_type" : "cons+vow",
+    "hebrew" : "ךָ",
+    "is_final_form" : true,
+    "occurances" : 1088,
+    "translit" : "kā"
+  }, {
+    "ascii_translit" : "",
+    "bwheb" : "_",
+    "char_type" : "cant",
+    "hebrew" : "֑",
+    "is_final_form" : false,
+    "occurances" : 17,
+    "translit" : ""
+  }, {
+    "ascii_translit" : ")",
+    "bwheb" : "a",
+    "char_type" : "cons",
+    "hebrew" : "א",
+    "is_final_form" : false,
+    "occurances" : 29646,
+    "translit" : "ʾ"
+  }, {
+    "ascii_translit" : "b",
+    "bwheb" : "b",
+    "char_type" : "cons",
+    "hebrew" : "ב",
+    "is_final_form" : false,
+    "occurances" : 17720,
+    "translit" : "b"
+  }, {
+    "ascii_translit" : "d",
+    "bwheb" : "d",
+    "char_type" : "cons",
+    "hebrew" : "ד",
+    "is_final_form" : false,
+    "occurances" : 12790,
+    "translit" : "d"
+  }, {
+    "ascii_translit" : "e:",
+    "bwheb" : "e",
+    "char_type" : "vow",
+    "hebrew" : "ֵ",
+    "is_final_form" : false,
+    "occurances" : 19899,
+    "translit" : "ē"
+  }, {
+    "ascii_translit" : "&",
+    "bwheb" : "f",
+    "char_type" : "cons",
+    "hebrew" : "שׂ",
+    "is_final_form" : false,
+    "occurances" : 4290,
+    "translit" : "ś"
+  }, {
+    "ascii_translit" : "g",
+    "bwheb" : "g",
+    "char_type" : "cons",
+    "hebrew" : "ג",
+    "is_final_form" : false,
+    "occurances" : 4183,
+    "translit" : "g"
+  }, {
+    "ascii_translit" : "h",
+    "bwheb" : "h",
+    "char_type" : "cons",
+    "hebrew" : "ה",
+    "is_final_form" : false,
+    "occurances" : 35577,
+    "translit" : "h"
+  }, {
+    "ascii_translit" : "i",
+    "bwheb" : "i",
+    "char_type" : "vow",
+    "hebrew" : "ִ",
+    "is_final_form" : false,
+    "occurances" : 32395,
+    "translit" : "i"
+  }, {
+    "ascii_translit" : "T",
+    "bwheb" : "j",
+    "char_type" : "cons",
+    "hebrew" : "ט",
+    "is_final_form" : false,
+    "occurances" : 4248,
+    "translit" : "ṭ"
+  }, {
+    "ascii_translit" : "k",
+    "bwheb" : "k",
+    "char_type" : "cons",
+    "hebrew" : "כ",
+    "is_final_form" : false,
+    "occurances" : 7451,
+    "translit" : "k"
+  }, {
+    "ascii_translit" : "l",
+    "bwheb" : "l",
+    "char_type" : "cons",
+    "hebrew" : "ל",
+    "is_final_form" : false,
+    "occurances" : 34076,
+    "translit" : "l"
+  }, {
+    "ascii_translit" : "m",
+    "bwheb" : "m",
+    "char_type" : "cons",
+    "hebrew" : "מ",
+    "is_final_form" : false,
+    "occurances" : 26771,
+    "translit" : "m"
+  }, {
+    "ascii_translit" : "n",
+    "bwheb" : "n",
+    "char_type" : "cons",
+    "hebrew" : "נ",
+    "is_final_form" : false,
+    "occurances" : 18121,
+    "translit" : "n"
+  }, {
+    "ascii_translit" : "p",
+    "bwheb" : "p",
+    "char_type" : "cons",
+    "hebrew" : "פ",
+    "is_final_form" : false,
+    "occurances" : 6515,
+    "translit" : "p"
+  }, {
+    "ascii_translit" : "q",
+    "bwheb" : "q",
+    "char_type" : "cons",
+    "hebrew" : "ק",
+    "is_final_form" : false,
+    "occurances" : 9960,
+    "translit" : "q"
+  }, {
+    "ascii_translit" : "r",
+    "bwheb" : "r",
+    "char_type" : "cons",
+    "hebrew" : "ר",
+    "is_final_form" : false,
+    "occurances" : 34573,
+    "translit" : "r"
+  }, {
+    "ascii_translit" : "s",
+    "bwheb" : "s",
+    "char_type" : "cons",
+    "hebrew" : "ס",
+    "is_final_form" : false,
+    "occurances" : 5825,
+    "translit" : "s"
+  }, {
+    "ascii_translit" : "t",
+    "bwheb" : "t",
+    "char_type" : "cons",
+    "hebrew" : "ת",
+    "is_final_form" : false,
+    "occurances" : 19716,
+    "translit" : "t"
+  }, {
+    "ascii_translit" : "u",
+    "bwheb" : "u",
+    "char_type" : "vow",
+    "hebrew" : "ֻ",
+    "is_final_form" : false,
+    "occurances" : 2398,
+    "translit" : "u"
+  }, {
+    "ascii_translit" : "$",
+    "bwheb" : "v",
+    "char_type" : "cons",
+    "hebrew" : "שׁ",
+    "is_final_form" : false,
+    "occurances" : 19729,
+    "translit" : "š"
+  }, {
+    "ascii_translit" : "w",
+    "bwheb" : "w",
+    "char_type" : "cons",
+    "hebrew" : "ו",
+    "is_final_form" : false,
+    "occurances" : 14134,
+    "translit" : "w"
+  }, {
+    "ascii_translit" : "x",
+    "bwheb" : "x",
+    "char_type" : "cons",
+    "hebrew" : "ח",
+    "is_final_form" : false,
+    "occurances" : 26440,
+    "translit" : "ḥ"
+  }, {
+    "ascii_translit" : "y",
+    "bwheb" : "y",
+    "char_type" : "cons",
+    "hebrew" : "י",
+    "is_final_form" : false,
+    "occurances" : 53804,
+    "translit" : "y"
+  }, {
+    "ascii_translit" : "z",
+    "bwheb" : "z",
+    "char_type" : "cons",
+    "hebrew" : "ז",
+    "is_final_form" : false,
+    "occurances" : 5278,
+    "translit" : "z"
+  }, {
+    "ascii_translit" : "o:",
+    "bwheb" : "{",
+    "char_type" : "vow",
+    "hebrew" : "ֹ",
+    "is_final_form" : false,
+    "occurances" : 7996,
+    "translit" : "ō"
+  }, {
+    "ascii_translit" : "a*",
+    "bwheb" : "}",
+    "char_type" : "vow",
+    "hebrew" : "ֲ",
+    "is_final_form" : false,
+    "occurances" : 8220,
+    "translit" : "ă"
+  }, {
+    "ascii_translit" : "m",
+    "bwheb" : "~",
+    "char_type" : "cons",
+    "hebrew" : "ם",
+    "is_final_form" : true,
+    "occurances" : 16039,
+    "translit" : "m"
+  }, {
+    "ascii_translit" : "",
+    "bwheb" : "",
+    "char_type" : "other",
+    "hebrew" : "»",
+    "is_final_form" : false,
+    "occurances" : 14,
+    "translit" : ""
+  }, {
+    "ascii_translit" : "",
+    "bwheb" : "",
+    "char_type" : "other",
+    "hebrew" : "«",
+    "is_final_form" : false,
+    "occurances" : 1,
+    "translit" : ""
+  }, {
+    "ascii_translit" : "",
+    "bwheb" : "",
+    "char_type" : "other",
+    "hebrew" : "$",
+    "is_final_form" : false,
+    "occurances" : 241,
+    "translit" : ""
+  }, {
+    "ascii_translit" : "",
+    "bwheb" : "£",
+    "char_type" : "roman",
+    "hebrew" : "•",
+    "is_final_form" : false,
+    "occurances" : 1,
+    "translit" : ""
+  }, {
+    "ascii_translit" : "",
+    "bwheb" : "§",
+    "char_type" : "cant",
+    "hebrew" : "֕",
+    "is_final_form" : false,
+    "occurances" : 3,
+    "translit" : ""
+  }, {
+    "ascii_translit" : "",
+    "bwheb" : "ª",
+    "char_type" : "cant",
+    "hebrew" : "֗",
+    "is_final_form" : false,
+    "occurances" : 2,
+    "translit" : ""
+  }, {
+    "ascii_translit" : "",
+    "bwheb" : "«",
+    "char_type" : "cant",
+    "hebrew" : "֙",
+    "is_final_form" : false,
+    "occurances" : 1,
+    "translit" : ""
+  }, {
+    "ascii_translit" : "",
+    "bwheb" : "±",
+    "char_type" : "cant",
+    "hebrew" : "֛",
+    "is_final_form" : false,
+    "occurances" : 1,
+    "translit" : ""
+  }, {
+    "ascii_translit" : "",
+    "bwheb" : "¹",
+    "char_type" : "other",
+    "hebrew" : "״",
+    "is_final_form" : false,
+    "occurances" : 1,
+    "translit" : ""
+  }, {
+    "ascii_translit" : "",
+    "bwheb" : "½",
+    "char_type" : "roman",
+    "hebrew" : "&",
+    "is_final_form" : false,
+    "occurances" : 1,
+    "translit" : ""
+  }, {
+    "ascii_translit" : "",
+    "bwheb" : "Ò",
+    "char_type" : "roman",
+    "hebrew" : "_",
+    "is_final_form" : false,
+    "occurances" : 1,
+    "translit" : ""
+  }, {
+    "ascii_translit" : "",
+    "bwheb" : "Û",
+    "char_type" : "cant",
+    "hebrew" : "֚",
+    "is_final_form" : false,
+    "occurances" : 1,
+    "translit" : ""
+  }, {
+    "ascii_translit" : "",
+    "bwheb" : "â",
+    "char_type" : "cant",
+    "hebrew" : "֖",
+    "is_final_form" : false,
+    "occurances" : 56,
+    "translit" : ""
+  }, {
+    "ascii_translit" : "",
+    "bwheb" : "å",
+    "char_type" : "cant",
+    "hebrew" : "֣",
+    "is_final_form" : false,
+    "occurances" : 18,
+    "translit" : ""
+  }, {
+    "ascii_translit" : "",
+    "bwheb" : "ê",
+    "char_type" : "cant",
+    "hebrew" : "֔",
+    "is_final_form" : false,
+    "occurances" : 88,
+    "translit" : ""
+  }, {
+    "ascii_translit" : "",
+    "bwheb" : "ë",
+    "char_type" : "cant",
+    "hebrew" : "֔",
+    "is_final_form" : false,
+    "occurances" : 9,
+    "translit" : ""
+  }, {
+    "ascii_translit" : "",
+    "bwheb" : "ï",
+    "char_type" : "cant",
+    "hebrew" : "֥",
+    "is_final_form" : false,
+    "occurances" : 3,
+    "translit" : ""
+  }, {
+    "ascii_translit" : "",
+    "bwheb" : "ð",
+    "char_type" : "cant",
+    "hebrew" : "֥",
+    "is_final_form" : false,
+    "occurances" : 1,
+    "translit" : ""
+  }, {
+    "ascii_translit" : "",
+    "bwheb" : "ñ",
+    "char_type" : "cant",
+    "hebrew" : "֫",
+    "is_final_form" : false,
+    "occurances" : 3551,
+    "translit" : ""
+  }, {
+    "ascii_translit" : "",
+    "bwheb" : "ö",
+    "char_type" : "cant",
+    "hebrew" : "֢",
+    "is_final_form" : false,
+    "occurances" : 1,
+    "translit" : ""
+  }, {
+    "ascii_translit" : "",
+    "bwheb" : "÷",
+    "char_type" : "cant",
+    "hebrew" : "֜",
+    "is_final_form" : false,
+    "occurances" : 9,
+    "translit" : ""
+  }, {
+    "ascii_translit" : "",
+    "bwheb" : "ú",
+    "char_type" : "cant",
+    "hebrew" : "֞",
+    "is_final_form" : false,
+    "occurances" : 1,
+    "translit" : ""
+  }
+]
