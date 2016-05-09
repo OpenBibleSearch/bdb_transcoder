@@ -19,5 +19,20 @@ defmodule HebrewTranscoderTest do
 
     assert test == expected
   end
+  test "fn `split_words` splits string on space'" do
+    input = ~s(aY"m;v.Bi Hl'a/ yt;yai)
+    expected = ["aY\"m;v.Bi", "Hl'a/", "yt;yai"]
 
+    test = HebrewTranscoder.split_words(input)
+
+    assert test == expected
+  end
+  test "fn `transcode` Splits, transcodes, and reassembles Hebrew phrases" do
+    input = ~s(aY"m;v.Bi Hl'a/ yt;yai)
+    expected = "אִיתַי אֱלָהּ בִּשְׁמַיָּא"
+
+    test = HebrewTranscoder.transcode(input)
+
+    assert test == expected
+  end
 end
